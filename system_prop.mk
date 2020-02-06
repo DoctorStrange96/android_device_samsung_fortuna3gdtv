@@ -8,5 +8,5 @@ PRODUCT_PROPERTY_OVERRIDES += \
 
 # RAM
 PRODUCT_PROPERTY_OVERRIDES += \
-	ro.config.low_ram=false \
+	ro.config.low_ram=true \
 	ro.config.zram=false
