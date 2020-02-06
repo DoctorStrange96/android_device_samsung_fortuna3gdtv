@@ -3,8 +3,8 @@ $(call inherit-product, device/samsung/gprimelte-common/rr.mk)
 $(call inherit-product, device/samsung/fortuna3g/device.mk)
 
 ## Device identifier. This must come after all inclusions
-PRODUCT_DEVICE := fortuna3g
-PRODUCT_NAME := rr_fortuna3g
+PRODUCT_DEVICE := fortuna3gdtv
+PRODUCT_NAME := Galaxy Grand Prime (SM-G530BT)
 PRODUCT_BRAND := samsung
 PRODUCT_MANUFACTURER := samsung
 PRODUCT_CHARACTERISTICS := phone
